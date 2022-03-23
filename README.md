@@ -1,7 +1,7 @@
 # Hi there 👋🏽
   I'm Marcelle, a software developer based in Rio(at the moment, we never know). I’m a front-end developer with experience building user-friendly, simple and delightful products.
 
-- 🔭 I’m currently working on developing coding skills, every day is The Day!
+- 🔭 I’m currently working on developing coding skills, everyday is The Day!
 - 🌱 I’m currently learning Vue.js and everything about blockchain development.
 - 📫 How to reach me: marcellee.mendess@gmail.com
 - 🥅 2022 Goal: Give my best to this new year!
