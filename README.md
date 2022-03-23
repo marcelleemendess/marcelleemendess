@@ -1,19 +1,14 @@
-### Hi there 👋🏽
+# Hi there 👋🏽
+  I'm Marcelle, a software developer based in Rio(at the moment, we never know). I’m a front-end developer with experience building user-friendly, simple and delightful products.
+
+- 🔭 I’m currently working on developing coding skills, every day is The Day!
+- 🌱 I’m currently learning Vue.js and everything about blockchain development.
+- 📫 How to reach me: marcellee.mendess@gmail.com
+- 🥅 2022 Goal: Give my best to this new year!
 
 <!--
 **marcelleemendess/marcelleemendess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
-
-
