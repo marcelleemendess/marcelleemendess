@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on developing coding skills!
 - 🌱 I’m currently learning Vue.js and everything about blockchain development.
 - ✨ Tranning my problem-solving skills everyday with Leetcode and HackerRank
-- 🥅 2022 Goal: 1) Learn a new programming language(Python)
+- 🥅 2022 Goal: Learn a new programming language(Python)
                 
 
     <a href = "mailto:marcellee.mendess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
