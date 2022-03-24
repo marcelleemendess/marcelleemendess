@@ -1,5 +1,5 @@
 # Hi there 👋🏽
-  I'm Marcelle, a software developer based in Rio(at the moment, we never know). I’m a front-end developer with experience building user-friendly, simple and delightful products.
+  I'm Marcelle, a software developer based in Rio(at the moment, we never know), with experience building user-friendly, simple and delightful products.
 
 - 🔭 I’m currently working on developing coding skills!
 - 🌱 I’m currently learning Vue.js and everything about blockchain development.
