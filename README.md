@@ -3,7 +3,7 @@
   
 
 - 🔭 I’m currently working on developing coding skills!
-- 🌱 I’m currently learning Vue.js, GraphQL and everything about web3.
+- 🌱 I’m currently learning Vue.js, GraphQL and everything about Web3.
 - ✨ Tranning my problem-solving skills everyday with Leetcode and HackerRank
 - 🥅 2022 Goal: Learn a new programming language(Python)
                 
