@@ -22,6 +22,7 @@
    <img align="center" alt="Vue" height="30" width="40" src="https://www.svgrepo.com/show/303494/vue-9-logo.svg">
    <img align="center" alt="GraphQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+  <img align="center" alt="Mongo DB" height="30" width="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
 </div>
 <br>
 
