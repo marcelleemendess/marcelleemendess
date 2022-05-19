@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on developing coding skills!
 - 🎒 I’m currently learning Vue.js and Python 
-- ✨ Tranning my problem-solving skills everyday with Leetcode and HackerRank
+- ✨ Tranning my problem-solving skills with Leetcode and HackerRank
 - 🥅 2022 Goal: Learn a new programming language(Python)
                 
 
