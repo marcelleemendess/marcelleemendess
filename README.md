@@ -23,6 +23,8 @@
    <img align="center" alt="GraphQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img align="center" alt="Mongo DB" height="30" width="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+  <img align="center" alt="Mongo DB" height="32" width="32" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"> 
+ 
 </div>
 <br>
 
