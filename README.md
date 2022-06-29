@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on developing coding skills!
 - 🎒 I’m also learning about DevOps 
 - ✨ Tranning my problem-solving skills with Leetcode and HackerRank
-- 🥅 2022 Goal: Learn Python and Solidity
+- 🥅 2022 Goal: Learn Python, Blockchain and Solidity
                 
 
     <a href = "mailto:marcellee.mendess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
