@@ -3,7 +3,7 @@
   
 
 - 🔭 I’m currently working on developing coding skills!
-- 🎒 I’m also learning about DevOps 
+- 🎒 I’m also learning Angular and DevOps
 - ✨ Tranning my problem-solving skills with Leetcode and HackerRank
 - 🥅 2022 Goal: Learn Python, Blockchain and Solidity
                 
