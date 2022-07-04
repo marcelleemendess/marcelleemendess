@@ -3,7 +3,7 @@
   
 
 - 🔭 I’m currently working on developing coding skills!
-- 🎒 I’m also learning DevOps and Microsoft Azure.
+- 🎒 I’m also learning DevOps and AWS.
 - ✨ Tranning my problem-solving skills with Leetcode and HackerRank.
 - 🥅 2022 Goal: Learn Python and Solidity.
                 
