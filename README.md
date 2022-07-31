@@ -1,5 +1,5 @@
 # Hi there 👋🏽
-  I'm Marcelle, a Software Engineer with experience building user-friendly, simple and delightful products. Currently travelling the world, coding and living 'La Dolce Vita' 🥳. 
+  I'm Marcelle, a Software Engineer with experience building user-friendly, simple and delightful products. Currently travelling the world, coding and living 'La Dolce Vita'. 🥳 
   
 
 - 🔭 I’m currently working on developing coding skills.
