@@ -17,6 +17,7 @@
   <div style="display: inline_block"><br>
     <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -24,7 +25,7 @@
    <img align="center" alt="GraphQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img align="center" alt="Mongo DB" height="30" width="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
-  <img align="center" alt="Mongo DB" height="32" width="32" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"> 
+  <img align="center" alt="Docker" height="32" width="32" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"> 
  
 </div>
 <br>
