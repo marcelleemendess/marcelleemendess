@@ -3,7 +3,7 @@
   
 
 - 🔭 I’m currently working on developing coding skills.
-- 🎒 I’m also learning C++ and DevOps.
+- 🎒 I’m also learning DevOps.
 - ✨ Tranning my problem-solving skills with Leetcode and HackerRank.
 - 🥅 2022 Goal: Never give up, never surrenders!
                 
