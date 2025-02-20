@@ -2,10 +2,7 @@
   I'm Marcelle, a Software Developer with experience building user-friendly, simple and delightful products. Currently travelling the world, coding and living 'La Dolce Vita'. 🥳 
   
 
-- 🔭 I’m currently working on developing coding skills.
-- 🎒 I’m also learning DevOps.
-- ✨ Tranning my problem-solving skills with Leetcode and HackerRank.
-- 🥅 2024 Goal: Never give up, never surrenders!
+
                 
      <!--<a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
     <a href = "mailto:marcellee.mendess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
